@@ -215,4 +215,6 @@ in the app level dependencies
 
 ### Documentation
 
+
 The documentation for appbase-search-widget library is hosted on [GitHub pages](https://harsh-2711.github.io/appbase-search-widget/)
+Daiict 
